@@ -12,12 +12,12 @@ const config = {
 				"Вы админ нескольких групп? Следите за их метриками на одной странице",
 			icon: <Icon28StatisticsOutline />,
 		},
-		{
-			id: "get-id",
-			title: "Узнать ID страницы",
-			desc: "бла-бла",
-			icon: <Icon28StatisticsOutline />,
-		},
+		// {
+		// 	id: "get-id",
+		// 	title: "Узнать ID страницы",
+		// 	desc: "бла-бла",
+		// 	icon: <Icon28StatisticsOutline />,
+		// },
 		// {
 		// 	title: "Популярные посты",
 		// 	desc: "Получить самые популярные посты на стене пользователя или сообщества",
